@@ -1,6 +1,6 @@
 qui {
 	clear 
-	// cls
+	cls
 	if c(N) { //background
 		inspired by polack et al. nejm 2020
 		NEJM2020;383:2603-15
